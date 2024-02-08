@@ -10,8 +10,9 @@ Gradient Descent: An optimization algorithm to find the values of parameters (w 
 Python is a widely used high-level programming language known for its readability, simplicity, and versatility. 
 # Package
 Numpy: For matrix and vector operations.
+
 Matplotlib: For plotting graphs.
-utils.py: Contains helper functions (though not directly used in the provided text).
+utils.py: Contains helper functions.
 # Dataset
 ![image](https://github.com/TaylorQu/Linear-Regression/assets/145403986/713ce794-0ddf-4ae2-b278-8503b8726d95)
 
